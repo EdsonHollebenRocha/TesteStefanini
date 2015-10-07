@@ -1,0 +1,17 @@
+C:\Users\Alan_Aguirre\Desktop\Stefanini - Prova Técnica\Solution\WebApp\WebApp\bin\WebApp.dll
+C:\Users\Alan_Aguirre\Desktop\Stefanini - Prova Técnica\Solution\WebApp\WebApp\bin\WebApp.pdb
+C:\Users\Alan_Aguirre\Desktop\Stefanini - Prova Técnica\Solution\WebApp\WebApp\obj\Debug\WebApp.csprojResolveAssemblyReference.cache
+C:\Users\Alan_Aguirre\Desktop\Stefanini - Prova Técnica\Solution\WebApp\WebApp\obj\Debug\WebApp.dll
+C:\Users\Alan_Aguirre\Desktop\Stefanini - Prova Técnica\Solution\WebApp\WebApp\obj\Debug\WebApp.pdb
+C:\Tests\Solution\WebApp\WebApp\bin\WebApp.dll
+C:\Tests\Solution\WebApp\WebApp\bin\WebApp.pdb
+C:\Tests\Solution\WebApp\WebApp\obj\Debug\WebApp.csprojResolveAssemblyReference.cache
+C:\Tests\Solution\WebApp\WebApp\obj\Debug\WebApp.dll
+C:\Tests\Solution\WebApp\WebApp\obj\Debug\WebApp.pdb
+C:\Users\Edson\Downloads\Solution\Solution\WebApp\WebApp\bin\WebApp.dll.config
+C:\Users\Edson\Downloads\Solution\Solution\WebApp\WebApp\bin\WebApp.dll
+C:\Users\Edson\Downloads\Solution\Solution\WebApp\WebApp\bin\WebApp.pdb
+C:\Users\Edson\Downloads\Solution\Solution\WebApp\WebApp\bin\System.Data.SqlServerCe.dll
+C:\Users\Edson\Downloads\Solution\Solution\WebApp\WebApp\obj\Debug\WebApp.csprojResolveAssemblyReference.cache
+C:\Users\Edson\Downloads\Solution\Solution\WebApp\WebApp\obj\Debug\WebApp.dll
+C:\Users\Edson\Downloads\Solution\Solution\WebApp\WebApp\obj\Debug\WebApp.pdb

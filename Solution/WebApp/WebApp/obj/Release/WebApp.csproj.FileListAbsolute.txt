@@ -1,0 +1,6 @@
+C:\Users\Edson\Downloads\Solution\Solution\WebApp\WebApp\bin\WebApp.dll.config
+C:\Users\Edson\Downloads\Solution\Solution\WebApp\WebApp\bin\WebApp.dll
+C:\Users\Edson\Downloads\Solution\Solution\WebApp\WebApp\bin\WebApp.pdb
+C:\Users\Edson\Downloads\Solution\Solution\WebApp\WebApp\bin\System.Data.SqlServerCe.dll
+C:\Users\Edson\Downloads\Solution\Solution\WebApp\WebApp\obj\Release\WebApp.dll
+C:\Users\Edson\Downloads\Solution\Solution\WebApp\WebApp\obj\Release\WebApp.pdb
